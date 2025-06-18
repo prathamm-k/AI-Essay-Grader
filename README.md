@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# AI-Essay-Grader
-=======
 # AI Essay Grader
 
 ## Project Motivation
@@ -130,4 +127,3 @@ Feel free to contribute to this project by:
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
->>>>>>> 283e796 (Initial commit)
